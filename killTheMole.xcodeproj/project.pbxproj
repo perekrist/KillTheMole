@@ -14,6 +14,7 @@
 		CA79ABD42224E11E002888A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA79ABD22224E11E002888A7 /* LaunchScreen.storyboard */; };
 		CA79ABDF2224E11E002888A7 /* killTheMoleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA79ABDE2224E11E002888A7 /* killTheMoleTests.swift */; };
 		CA79ABEA2224E11E002888A7 /* killTheMoleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA79ABE92224E11E002888A7 /* killTheMoleUITests.swift */; };
+		CA79AC3C2226D637002888A7 /* EndViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA79AC3B2226D637002888A7 /* EndViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CA79ABE52224E11E002888A7 /* killTheMoleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = killTheMoleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA79ABE92224E11E002888A7 /* killTheMoleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = killTheMoleUITests.swift; sourceTree = "<group>"; };
 		CA79ABEB2224E11E002888A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CA79AC3B2226D637002888A7 /* EndViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				CA79ABC92224E11D002888A7 /* AppDelegate.swift */,
 				CA79ABCB2224E11D002888A7 /* ViewController.swift */,
+				CA79AC3B2226D637002888A7 /* EndViewController.swift */,
 				CA79ABCD2224E11D002888A7 /* Main.storyboard */,
 				CA79ABD02224E11E002888A7 /* Assets.xcassets */,
 				CA79ABD22224E11E002888A7 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA79AC3C2226D637002888A7 /* EndViewController.swift in Sources */,
 				CA79ABCC2224E11D002888A7 /* ViewController.swift in Sources */,
 				CA79ABCA2224E11D002888A7 /* AppDelegate.swift in Sources */,
 			);
